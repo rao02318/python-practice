@@ -1,6 +1,10 @@
-# python-practice
-My Python learning and PF practice programs
-# Python Practice
+# Python Practice Projects
 
-Learning GitHub and Python.
-PF Student | Beginner Developer
+This repository contains my Python learning programs.
+
+## Programs
+- Hello World
+- Basic Input Output
+- Practice Problems
+
+More projects coming soon 🚀
